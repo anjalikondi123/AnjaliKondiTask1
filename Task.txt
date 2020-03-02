@@ -1,0 +1,2 @@
+git config --global user.name "anjalikondi123"
+git config --global user.email 18wh5a0514@bvrithyderabad.edu.in"
